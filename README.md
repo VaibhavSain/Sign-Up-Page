@@ -9,7 +9,7 @@ I'm excited to share my latest frontend project — a responsive Sign-Up Page bu
 
 This project helped me enhance my frontend development skills and focus on creating a seamless user onboarding experience.
 
-👀 Live Preview: vaibhavsain.github.io/Sign-Up-Page/
+👀 Live Preview:vaibhavsain.github.io/Sign-Up-Page/
 
 Always building. Always learning. 🔧🔥
 #HTML #CSS #JavaScript #WebDevelopment #UIDesign #FrontendDevelopment #100DaysOfCode
